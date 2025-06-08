@@ -120,8 +120,7 @@ pyreadline3==3.5.4
 python-dateutil==2.9.0.post0
 python-dotenv==1.0.1
 pytz==2024.1
-# Remove pywin32 if not on Windows
-# pywin32==306
+pywin32==310
 PyYAML==6.0.2
 pyzmq==26.4.0
 referencing==0.35.1
@@ -149,7 +148,6 @@ tenacity==9.0.0
 tensorboard==2.18.0
 tensorboard-data-server==0.7.2
 tensorflow==2.18.0
-tensorflow_intel==2.18.0
 termcolor==2.5.0
 threadpoolctl==3.5.0
 tifffile==2025.3.30
