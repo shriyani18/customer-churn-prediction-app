@@ -91,7 +91,7 @@ namex==0.0.8
 narwhals==1.10.0
 nest-asyncio==1.6.0
 networkx==3.4.2
-numpy==1.26.4
+numpy==1.25.4
 onnxruntime==1.21.0
 opencv-python==4.11.0.86
 opt_einsum==3.4.0
@@ -120,7 +120,7 @@ pyreadline3==3.5.4
 python-dateutil==2.9.0.post0
 python-dotenv==1.0.1
 pytz==2024.1
-pywin32==310
+pywin32>=310,<325
 PyYAML==6.0.2
 pyzmq==26.4.0
 referencing==0.35.1
